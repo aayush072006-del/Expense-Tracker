@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run Expense Tracker",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/app.py",
+            "console": "integratedTerminal",
+            "serverReadyAction": {
+                "pattern": "Running on (http://\\S+)",
+                "uriFormat": "%s",
+                "action": "openExternally"
+            }
+        }
+    ]
+}

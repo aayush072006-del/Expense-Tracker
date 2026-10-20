@@ -143,7 +143,7 @@ SQLite keeps the project lightweight while providing reliable database functiona
 
 ### 1. Clone Repository
 
-    git clone https://github.com/aakashnath/expense-tracker.git
+    s
 
 ### 2. Navigate to Project Directory
 
@@ -288,21 +288,10 @@ Through this project, the following practical concepts were implemented:
 
 ---
 
-## 👨‍💻 Developed By
-
-**Aakash Nath**
-
-**B.Tech — Information Technology**
-
-📧 Email: nathaakash855@gmail.com
-
-💼 LinkedIn: https://linkedin.com/in/aakashnath2003
-
----
-
+## 
 ## 🔗 GitHub Repository
 
-https://github.com/aakashnath/expense-tracker
+
 
 ---
 
